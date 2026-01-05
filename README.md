@@ -1,4 +1,3 @@
-Dental Clinic
 Dental Clinic Management System
 
 Welcome to the Dental Clinic Management System project! This application is designed to streamline the management of dental clinic operations, making it easier for both clinic staff and patients to schedule appointments, manage records, and facilitate communication.
