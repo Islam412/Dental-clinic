@@ -1,0 +1,230 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 23/01/2019 13:57
+*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon.eot");
+  src: url("../fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/flaticon.woff2") format("woff2"),
+    url("../fonts/flaticon.woff") format("woff"),
+    url("../fonts/flaticon.ttf") format("truetype"),
+    url("../fonts/flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="pbmit-dentiq-icon-"]:before,
+[class*=" pbmit-dentiq-icon-"]:before,
+[class^="pbmit-dentiq-icon-"]:after,
+[class*=" pbmit-dentiq-icon-"]:after {
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.pbmit-dentiq-icon-family:before {
+  content: "\f100";
+}
+.pbmit-dentiq-icon-anesthesia:before {
+  content: "\f101";
+}
+.pbmit-dentiq-icon-toothbrush:before {
+  content: "\f102";
+}
+.pbmit-dentiq-icon-chair:before {
+  content: "\f103";
+}
+.pbmit-dentiq-icon-molar:before {
+  content: "\f104";
+}
+.pbmit-dentiq-icon-tooth:before {
+  content: "\f105";
+}
+.pbmit-dentiq-icon-doctor:before {
+  content: "\f106";
+}
+.pbmit-dentiq-icon-braces:before {
+  content: "\f107";
+}
+.pbmit-dentiq-icon-tooth-1:before {
+  content: "\f108";
+}
+.pbmit-dentiq-icon-doctor-1:before {
+  content: "\f109";
+}
+.pbmit-dentiq-icon-brushing-teeth:before {
+  content: "\f10a";
+}
+.pbmit-dentiq-icon-implants:before {
+  content: "\f10b";
+}
+.pbmit-dentiq-icon-lips:before {
+  content: "\f10c";
+}
+.pbmit-dentiq-icon-doctor-2:before {
+  content: "\f10d";
+}
+.pbmit-dentiq-icon-dentist:before {
+  content: "\f10e";
+}
+.pbmit-dentiq-icon-medical-record:before {
+  content: "\f10f";
+}
+.pbmit-dentiq-icon-brushing-teeth-1:before {
+  content: "\f110";
+}
+.pbmit-dentiq-icon-prosthesis:before {
+  content: "\f111";
+}
+.pbmit-dentiq-icon-drill:before {
+  content: "\f112";
+}
+.pbmit-dentiq-icon-toothbrush-1:before {
+  content: "\f113";
+}
+.pbmit-dentiq-icon-tooth-2:before {
+  content: "\f114";
+}
+.pbmit-dentiq-icon-consult:before {
+  content: "\f115";
+}
+.pbmit-dentiq-icon-tooth-3:before {
+  content: "\f116";
+}
+.pbmit-dentiq-icon-appointment:before {
+  content: "\f117";
+}
+.pbmit-dentiq-icon-tooth-pliers:before {
+  content: "\f118";
+}
+.pbmit-dentiq-icon-implants-1:before {
+  content: "\f119";
+}
+.pbmit-dentiq-icon-protection:before {
+  content: "\f11a";
+}
+.pbmit-dentiq-icon-folder:before {
+  content: "\f11b";
+}
+.pbmit-dentiq-icon-broken-tooth:before {
+  content: "\f11c";
+}
+.pbmit-dentiq-icon-tooth-4:before {
+  content: "\f11d";
+}
+.pbmit-dentiq-icon-tooth-5:before {
+  content: "\f11e";
+}
+.pbmit-dentiq-icon-tooth-6:before {
+  content: "\f11f";
+}
+.pbmit-dentiq-icon-girl:before {
+  content: "\f120";
+}
+.pbmit-dentiq-icon-apple:before {
+  content: "\f121";
+}
+.pbmit-dentiq-icon-tooth-pliers-1:before {
+  content: "\f122";
+}
+.pbmit-dentiq-icon-pills:before {
+  content: "\f123";
+}
+.pbmit-dentiq-icon-toothbrush-2:before {
+  content: "\f124";
+}
+.pbmit-dentiq-icon-dental-implant:before {
+  content: "\f125";
+}
+.pbmit-dentiq-icon-call-center:before {
+  content: "\f126";
+}
+.pbmit-dentiq-icon-insurance:before {
+  content: "\f127";
+}
+.pbmit-dentiq-icon-smiling:before {
+  content: "\f128";
+}
+.pbmit-dentiq-icon-call:before {
+  content: "\f129";
+}
+.pbmit-dentiq-icon-24-hours:before {
+  content: "\f12a";
+}
+.pbmit-dentiq-icon-headset:before {
+  content: "\f12b";
+}
+.pbmit-dentiq-icon-pdf:before {
+  content: "\f12c";
+}
+.pbmit-dentiq-icon-doc:before {
+  content: "\f12d";
+}
+.pbmit-dentiq-icon-placeholder:before {
+  content: "\f12e";
+}
+.pbmit-dentiq-icon-placeholder-1:before {
+  content: "\f12f";
+}
+.pbmit-dentiq-icon-map:before {
+  content: "\f130";
+}
+.pbmit-dentiq-icon-healthcare-and-medical:before {
+  content: "\f131";
+}
+.pbmit-dentiq-icon-time-and-date:before {
+  content: "\f132";
+}
+.pbmit-dentiq-icon-dental-insurance:before {
+  content: "\f133";
+}
+.pbmit-dentiq-icon-dental-insurance-1:before {
+  content: "\f134";
+}
+.pbmit-dentiq-icon-implant:before {
+  content: "\f135";
+}
+.pbmit-dentiq-icon-broken-tooth-1:before {
+  content: "\f136";
+}
+.pbmit-dentiq-icon-braces-1:before {
+  content: "\f137";
+}
+.pbmit-dentiq-icon-dental-care:before {
+  content: "\f138";
+}
+.pbmit-dentiq-icon-dental-care-1:before {
+  content: "\f139";
+}
+.pbmit-dentiq-icon-dentist-1:before {
+  content: "\f13a";
+}
+.pbmit-dentiq-icon-mail:before {
+  content: "\f13b";
+}
+.pbmit-dentiq-icon-spam:before {
+  content: "\f13c";
+}
+.pbmit-dentiq-icon-envelope:before {
+  content: "\f13d";
+}
+.pbmit-dentiq-icon-placeholder-2:before {
+  content: "\f13e";
+}
+.pbmit-dentiq-icon-smartphone:before {
+  content: "\f13f";
+}
+.pbmit-dentiq-icon-healthcare-and-medical-1:before {
+  content: "\f140";
+}
+.pbmit-dentiq-icon-shapes-and-symbols:before {
+  content: "\f141";
+}
