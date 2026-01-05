@@ -65,3 +65,9 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Thank you for checking out the Dental Clinic Management System! We hope it serves you well in managing dental clinic operations efficiently.
+
+Project Demo 
+![Dental Clinic](images/readme/Dental-clinic1.png)
+![Dental Clinic](images/readme/Dental-clinic2.png)
+![Dental Clinic](images/readme/Dental-clinic3.png)
+
